@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Adult Income Dataset - Data Cleaning and Preparation (Q1b)
 
 ## Overview
@@ -32,3 +33,7 @@ The data cleaning and preparation pipeline was implemented using **Python (panda
    - Mapped `income` to binary values (`<=50k → 0`, `>50k → 1`) for modeling purposes.
 
 The pipeline ensures that anyone can **reproduce the cleaned dataset** by running the notebook.
+=======
+# Business-Intelligence-_-Student
+Group 3
+>>>>>>> 6b354af4b3a88449ae99289e43cae419ea193941
